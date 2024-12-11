@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/soumil/Soumil/Programming/cpp/ws-cpp/build",
+  "command": "/usr/lib64/ccache/clang++   -g -std=c++23 -fPIC -o CMakeFiles/ws-cpp.dir/src/ws.cpp.o -c /home/soumil/Soumil/Programming/cpp/ws-cpp/src/ws.cpp",
+  "file": "/home/soumil/Soumil/Programming/cpp/ws-cpp/src/ws.cpp",
+  "output": "CMakeFiles/ws-cpp.dir/src/ws.cpp.o"
+}
+]
